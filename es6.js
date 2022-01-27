@@ -14,5 +14,8 @@ const fullName = `${num1 + num2}`;
 console.log(fullName);
 
 /*--------------------------------------------------------------------------------------*/
-/*  */
+/* The object destructuring is a feature to extract properties from objects and bind them to variables.
+object destructuring can extract multiple properties in one statement, can access properties from nested 
+objects, and can set a default value if the property doesn't exist. 
+*/
 
